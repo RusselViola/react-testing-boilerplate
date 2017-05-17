@@ -27,14 +27,7 @@ module.exports = {
   resolve: {
     root: __dirname,
     alias: {
-      Main: 'src/components/Main.jsx',
-      applicationStyles: 'src/styles/app.scss',
-      Navigation: 'src/components/Navigation.jsx',
-      Timer: 'src/components/Timer.jsx',
-      Countdown: 'src/components/Countdown.jsx',
-      Clock: 'src/components/Clock.jsx',
-      CountdownForm: 'src/components/CountdownForm.jsx',
-      Controls: 'src/components/Controls.jsx'
+      applicationStyles: 'src/styles/app.scss'
     },
     extensions: ['', '.js', '.jsx']
   },

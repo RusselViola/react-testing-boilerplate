@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RusselViola/countdown-timer.git"
+    "url": "git+https://github.com/RusselViola/react-testing-boilerplate.git"
   },
   "author": "Russel Viola",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RusselViola/countdown-timer/issues"
+    "url": "https://github.com/RusselViola/react-testing-boilerplate/issues"
   },
-  "homepage": "https://github.com/RusselViola/countdown-timer#readme",
+  "homepage": "https://github.com/RusselViola/react-testing-boilerplate#readme",
   "dependencies": {
     "axios": "^0.15.3",
     "dotenv": "^4.0.0",
